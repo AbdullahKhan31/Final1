@@ -25,4 +25,13 @@ public class Calculator
 			throw new IllegalArgumentException();
 		return result;
 	}
+	/**
+	 * @author Abdullah
+	 * @param num - It is the number whose cube we are getting
+	 * @return - returns the cube of num
+	 */
+	public int cube(int num)
+	{
+		return num*num*num;
+	}
 }

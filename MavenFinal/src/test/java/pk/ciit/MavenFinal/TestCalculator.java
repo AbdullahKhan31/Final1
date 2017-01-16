@@ -15,6 +15,7 @@ public class TestCalculator
 		assertEquals(5, result);
 	}
 	
+	
 	@Test
 	public void testSquare()
 	{
